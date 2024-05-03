@@ -19,3 +19,4 @@ Odds Ratio (OR): 0.9913
    - 0.9939 < RR < 1.005 
    - 0.9188 < OR < 1.07 
 This context provides the matrix M2 with row and column names, along with the output analysis of proportions, relative risk, odds, odds ratio, and their respective confidence intervals.
+![image](https://github.com/Jameel-Hu/Epidemiology/assets/110083577/88bfbb3a-2bb1-4922-98c2-7047f17b9018)
